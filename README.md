@@ -18,16 +18,15 @@
 ## 📁 الهيكل
 
 .
-├── vpc.tf
-├── subnet.tf
-├── security.tf
+├── data.tf
 ├── ec2.tf
 ├── keypair.tf
 ├── outputs.tf
 ├── provider.tf
+├── security.tf
+├── subnet.tf
 ├── variables.tf
-├── data.tf
-└── .gitignore
+├── vpc.tf
 
 
 ## ⚙️ التقنيات المستخدمة
